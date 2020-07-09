@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="这是我的安卓课程的一个实验作业，使用到的技术都是一些比较基础的，如果有需求欢迎邮件联系我\n\n
+我的邮箱：xwy19971118@126.com\n\n
+开发人员：\n上海第二工业大学\n19网工S1向惟宇"
+        android:textSize="24dp"></TextView>
+
+</RelativeLayout>
